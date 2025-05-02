@@ -55,7 +55,7 @@ We scraped real-time data from [Basketball-Reference.com](https://www.basketball
 This project was developed for:
 **MAD2502: Introduction to Computational Mathematics**  
 University of Florida, Fall 2023  
-Instructor: [Instructor Name]
+
 
 ## 📝 License
 This project is for academic use only. Data sourced from [Basketball-Reference.com](https://www.basketball-reference.com/).
