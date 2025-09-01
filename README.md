@@ -1,6 +1,6 @@
 #  NBA MVP Predictor
 
-This project was developed as the final capstone for the University of Florida's Introduction to Computational Math (MAD2502) course in Fall 2023. The goal was to analyze NBA player statistics, determine the most influential metrics for winning the MVP award, and build a predictive model to evaluate current players’ chances of becoming MVP.
+ The goal was to analyze NBA player statistics, determine the most influential metrics for winning the MVP award, and build a predictive model to evaluate current players’ chances of becoming MVP.
 [YOUTUBE VIDEO](<https://www.youtube.com/watch?v=XnuaGsIK2gU>)
 ## Overview
 
